@@ -14,11 +14,8 @@
     <title> BroCast | Tournament </title>
     <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="assets/fonts/ionicons.min.css">
-    <link rel="stylesheet" href="assets/css/Animated-CSS-Waves-Background-SVG.css">
-    <link rel="stylesheet" href="assets/css/Footer-Basic.css">
     <link rel="stylesheet" href="assets/css/Login-Form-Dark.css">
     <link rel="stylesheet" href="assets/css/styles.css">
-    <link rel="stylesheet" href="assets/css/Wave-Animation-Circle-and-Square.css">
     <link rel="stylesheet" href="s.css">
 </head>
 
